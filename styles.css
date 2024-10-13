@@ -1,0 +1,161 @@
+/* Ensure body and html take up full height */
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Flexbox layout to ensure footer stays at the bottom */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Full viewport height */
+}
+
+/* Content takes remaining space to push footer down */
+.content {
+    flex: 1;
+    position: relative;
+    z-index: 2; /* Keep the content above the background image */
+}
+
+/* The background container with animation */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: url('/image.jpg') repeat-x;
+    background-size: cover;
+    animation: slidebg 33s linear infinite;
+}
+
+/* Animation for background sliding */
+@keyframes slidebg {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: -2000px 0;
+    }
+}
+
+/* Styling for header */
+header {
+    background-color: #000;
+    color: #f9f4f4;
+    text-align: center;
+    padding: 20px 0;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ebcbcb;
+    text-align: center;
+}
+
+/* Form container styling */
+.form-container {
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.9); /* Dark background with transparency */
+    border-radius: 10px;
+    z-index: 2;
+    position: relative;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    color: #e6dbdb;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    background-color: #3b3b3b;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+input[type="number"], input[type="text"] {
+    padding-right: 10px; /* Adjust the padding on the right */
+    width: 100%; /* Ensure full width */
+    box-sizing: border-box; /* Ensure padding doesn’t affect the width */
+}
+
+button {
+    margin-top: 20px;
+    padding: 12px;
+    width: 100%;
+    background-color: #ff0000;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #685656;
+}
+
+/* Modal styles */
+.modal {
+    /* display: none;  */
+    position: fixed;
+    z-index: 10;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.85); 
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    /* margin-top: 100px; */
+}
+
+/* Modal content to make sure it's centered and has appropriate margins */
+.modal-content {
+    background-color: #2b2b2b;
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 600px;
+    width: 100%; /* Ensure it takes up an appropriate width */
+    text-align: center;
+    color: white; /* Ensure text is visible */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Add a shadow for better visibility */
+    margin: auto; /* Center the content inside the modal */
+    max-height: 90vh;
+    overflow-y: auto;
+}
+
+.close {
+    color: #fff;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close:hover,
+.close:focus {
+    color: #e9c5c5;
+    text-decoration: none;
+}
+
+/* Sticky footer styling */
+footer {
+    background-color: #000;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    z-index: 2;
+    position: relative;
+}

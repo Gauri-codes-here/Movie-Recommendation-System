@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Recommendation System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="background-container"></div>
+
+    <div class="content">
+        <header>
+            <h1>Movie Recommendation System</h1>
+        </header>
+
+        <main>
+            <div class="form-container">
+                <h2>Find the perfect movie!</h2>
+                <form id="movieForm">
+                    <label for="year">Year (Optional):</label>
+                    <input type="number" id="year" name="year" placeholder="Enter year (Optional)" min="1900" max="2024">
+
+
+                    <label for="rating">IMDb Rating (min):</label>
+                    <input type="number" id="rating" name="rating" placeholder="Enter rating" min="1" max="10" step="0.1" required>
+
+                    <label for="genre">Genre:</label>
+                    <select id="genre" name="genre" required>
+                        <option value="" disabled selected>Select a genre</option>
+                        <option value="Action">Action</option>
+                        <option value="Drama">Drama</option>
+                        <option value="Comedy">Comedy</option>
+                        <option value="Sci-Fi">Sci-Fi</option>
+                        <option value="Crime">Crime</option>
+                        <option value="Adventure">Adventure</option>
+                        <option value="Animation">Animation</option>
+                        <option value="Mystery">Mystery</option>
+                        <option value="Thriller">Thriller</option>
+                        <option value="Fantasy">Fantasy</option>
+                        <option value="Horror">Horror</option>
+                        <option value="War">War</option>
+
+                    </select>
+
+                    <button type="submit">Get Recommendations</button>
+                </form>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal for displaying recommendations -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h3>Recommended Movies</h3>
+            <div id="recommendations"></div>
+        </div>
+    </div>
+
+    <footer>
+        <p>Made by Gauri Singh</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
