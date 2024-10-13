@@ -1,0 +1,659 @@
+title,year,rating,genre
+Inception,2010,8.8,Sci-Fi
+The Dark Knight,2008,9.0,Action
+Interstellar,2014,8.6,Sci-Fi
+Pulp Fiction,1994,8.9,Crime
+The Godfather,1972,9.2,Crime
+The Shawshank Redemption,1994,9.3,Drama
+The Avengers,2012,8.1,Action
+Forrest Gump,1994,8.8,Drama
+Star Wars,1977,8.6,Sci-Fi
+Avatar,2009,7.8,Sci-Fi
+Spider-Man: No Way Home,2021,8.3,Action
+Jurassic Park,1993,8.1,Adventure
+The Matrix,1999,8.7,Sci-Fi
+Gladiator,2000,8.5,Action
+Braveheart,1995,8.3,Drama
+Guardians of the Galaxy,2014,8.0,Action
+The Lord of the Rings: The Fellowship of the Ring,2001,8.8,Adventure
+The Lord of the Rings: The Two Towers,2002,8.7,Adventure
+The Lord of the Rings: The Return of the King,2003,9.0,Adventure
+Titanic,1997,7.8,Drama
+The Social Network,2010,7.7,Drama
+Mad Max: Fury Road,2015,8.1,Action
+The Lion King,1994,8.5,Animation
+Frozen,2013,7.4,Animation
+Finding Nemo,2003,8.1,Animation
+Toy Story,1995,8.3,Animation
+Shrek,2001,7.9,Animation
+Inside Out,2015,8.1,Animation
+Up,2009,8.2,Animation
+Coco,2017,8.4,Animation
+WALL-E,2008,8.4,Animation
+The Incredibles,2004,8.0,Animation
+Zootopia,2016,8.0,Animation
+Spider-Man: Into the Spider-Verse,2018,8.4,Animation
+The Wolf of Wall Street,2013,8.2,Comedy
+Django Unchained,2012,8.4,Drama
+Whiplash,2014,8.5,Drama
+La La Land,2016,8.0,Drama
+The Prestige,2006,8.5,Drama
+Memento,2000,8.4,Mystery
+The Sixth Sense,1999,8.1,Mystery
+Se7en,1995,8.6,Thriller
+Fight Club,1999,8.8,Drama
+The Departed,2006,8.5,Crime
+The Big Lebowski,1998,8.1,Comedy
+Reservoir Dogs,1992,8.3,Crime
+Goodfellas,1990,8.7,Crime
+Scarface,1983,8.3,Crime
+Heat,1995,8.3,Crime
+Casino,1995,8.2,Crime
+American Psycho,2000,7.6,Thriller
+Taxi Driver,1976,8.2,Crime
+A Clockwork Orange,1971,8.3,Crime
+The Silence of the Lambs,1991,8.6,Thriller
+Schindler's List,1993,9.0,Drama
+Saving Private Ryan,1998,8.6,Drama
+The Green Mile,1999,8.6,Drama
+Rocky,1976,8.1,Drama
+Alien,1979,8.5,Horror
+The Terminator,1984,8.0,Sci-Fi
+Die Hard,1988,8.2,Action
+Indiana Jones and the Last Crusade,1989,8.2,Adventure
+Back to the Future,1985,8.5,Sci-Fi
+The Breakfast Club,1985,7.9,Comedy
+Ferris Bueller's Day Off,1986,7.8,Comedy
+Groundhog Day,1993,8.0,Comedy
+The Truman Show,1998,8.1,Drama
+Blade Runner,1982,8.1,Sci-Fi
+The Big Short,2015,7.8,Drama
+The Revenant,2015,8.0,Drama
+Parasite,2019,8.6,Drama
+1917,2019,8.3,Drama
+Joker,2019,8.4,Drama
+Knives Out,2019,7.9,Mystery
+Once Upon a Time in Hollywood,2019,7.6,Drama
+Jojo Rabbit,2019,7.9,Comedy
+Ford v Ferrari,2019,8.1,Drama
+The Irishman,2019,7.8,Drama
+Marriage Story,2019,7.9,Drama
+A Star Is Born,2018,7.7,Drama
+Bohemian Rhapsody,2018,8.0,Drama
+Black Panther,2018,7.3,Action
+Avengers: Endgame,2019,8.4,Action
+Doctor Strange,2016,7.5,Sci-Fi
+Captain America: Civil War,2016,7.8,Action
+Ant-Man,2015,7.3,Action
+Thor: Ragnarok,2017,7.9,Action
+Wonder Woman,2017,7.4,Action
+Justice League,2017,6.3,Action
+Aquaman,2018,7.0,Action
+Logan,2017,8.1,Action
+Deadpool,2016,8.0,Comedy
+X-Men: Days of Future Past,2014,7.9,Action
+Man of Steel,2013,7.0,Action
+Guardians of the Galaxy Vol. 2,2017,7.6,Action
+Spider-Man: Homecoming,2017,7.4,Action
+The Amazing Spider-Man,2012,7.0,Action
+Batman v Superman: Dawn of Justice,2016,6.5,Action
+Iron Man,2008,7.9,Action
+Iron Man 2,2010,7.0,Action
+Iron Man 3,2013,7.1,Action
+The Avengers: Age of Ultron,2015,7.3,Action
+Thor: The Dark World,2013,6.9,Action
+The Hunger Games,2012,7.2,Action
+The Hunger Games: Catching Fire,2013,7.5,Action
+The Hunger Games: Mockingjay - Part 1,2014,6.6,Action
+The Hunger Games: Mockingjay - Part 2,2015,6.5,Action
+Harry Potter and the Sorcerer's Stone,2001,7.6,Fantasy
+Harry Potter and the Chamber of Secrets,2002,7.4,Fantasy
+Harry Potter and the Prisoner of Azkaban,2004,7.9,Fantasy
+Harry Potter and the Goblet of Fire,2005,7.7,Fantasy
+Harry Potter and the Order of the Phoenix,2007,7.5,Fantasy
+Harry Potter and the Half-Blood Prince,2009,7.6,Fantasy
+Harry Potter and the Deathly Hallows: Part 1,2010,7.7,Fantasy
+Harry Potter and the Deathly Hallows: Part 2,2011,8.1,Fantasy
+Fantastic Beasts and Where to Find Them,2016,7.3,Fantasy
+Fantastic Beasts: The Crimes of Grindelwald,2018,6.5,Fantasy
+The Hobbit: An Unexpected Journey,2012,7.8,Fantasy
+The Hobbit: The Desolation of Smaug,2013,7.8,Fantasy
+The Hobbit: The Battle of the Five Armies,2014,7.4,Fantasy
+Twilight,2008,5.2,Fantasy
+The Twilight Saga: New Moon,2009,4.7,Fantasy
+The Twilight Saga: Eclipse,2010,5.0,Fantasy
+The Twilight Saga: Breaking Dawn - Part 1,2011,4.9,Fantasy
+The Twilight Saga: Breaking Dawn - Part 2,2012,5.5,Fantasy
+The Maze Runner,2014,6.8,Action
+Maze Runner: The Scorch Trials,2015,6.3,Action
+Maze Runner: The Death Cure,2018,6.2,Action
+Divergent,2014,6.7,Sci-Fi
+Insurgent,2015,6.2,Sci-Fi
+Allegiant,2016,5.7,Sci-Fi
+The Da Vinci Code,2006,6.6,Mystery
+Angels & Demons,2009,6.7,Mystery
+Inferno,2016,6.2,Mystery
+Mission: Impossible - Fallout,2018,7.8,Action
+Mission: Impossible - Rogue Nation,2015,7.4,Action
+Mission: Impossible - Ghost Protocol,2011,7.4,Action
+Mission: Impossible III,2006,6.9,Action
+Mission: Impossible II,2000,6.1,Action
+Mission: Impossible,1996,7.1,Action
+John Wick,2014,7.4,Action
+John Wick: Chapter 2,2017,7.5,Action
+John Wick: Chapter 3 - Parabellum,2019,7.4,Action
+Taken,2008,7.8,Thriller
+Taken 2,2012,6.3,Action
+Taken 3,2014,6.0,Action
+Fast & Furious,2009,6.6,Action
+Fast Five,2011,7.3,Action
+Fast & Furious 6,2013,7.0,Action
+Furious 7,2015,7.2,Action
+The Fate of the Furious,2017,6.6,Action
+Hobbs & Shaw,2019,6.5,Action
+The Expendables,2010,6.5,Action
+The Expendables 2,2012,6.6,Action
+The Expendables 3,2014,6.1,Action
+Rambo,2008,7.0,Action
+Rambo: First Blood,1982,7.7,Action
+Rambo: First Blood Part II,1985,6.5,Action
+Rambo III,1988,6.1,Action
+Creed,2015,7.6,Drama
+Creed II,2018,7.1,Drama
+Rocky Balboa,2006,7.1,Drama
+The Bourne Identity,2002,7.9,Action
+The Bourne Supremacy,2004,7.7,Action
+The Bourne Ultimatum,2007,8.0,Action
+The Bourne Legacy,2012,6.7,Action
+Jason Bourne,2016,6.6,Action
+Jack Reacher,2012,7.0,Action
+Jack Reacher: Never Go Back,2016,6.1,Action
+Atomic Blonde,2017,6.7,Action
+Salt,2010,6.4,Action
+The Equalizer,2014,7.2,Action
+The Equalizer 2,2018,6.7,Action
+Lethal Weapon,1987,7.6,Action
+Lethal Weapon 2,1989,7.2,Action
+Lethal Weapon 3,1992,6.7,Action
+Lethal Weapon 4,1998,6.6,Action
+Bad Boys,1995,6.8,Action
+Bad Boys II,2003,6.6,Action
+Bad Boys for Life,2020,6.5,Action
+Die Hard 2,1990,7.2,Action
+Die Hard with a Vengeance,1995,7.6,Action
+Live Free or Die Hard,2007,7.1,Action
+A Good Day to Die Hard,2013,5.3,Action
+Mad Max,1979,6.9,Action
+Mad Max 2,1981,7.6,Action
+Mad Max Beyond Thunderdome,1985,6.3,Action
+Mad Max: Fury Road,2015,8.1,Action
+Fury,2014,7.6,War
+Dunkirk,2017,7.9,War
+The Dark Knight Rises,2012,8.4,Action
+Batman Begins,2005,8.2,Action
+Wonder Woman 1984,2020,5.4,Action
+Tenet,2020,7.3,Sci-Fi
+The Pursuit of Happyness,2006,8.0,Drama
+Slumdog Millionaire,2008,8.0,Drama
+12 Years a Slave,2013,8.1,Drama
+Moonlight,2016,7.4,Drama
+The King's Speech,2010,8.0,Drama
+Spotlight,2015,8.1,Drama
+The Imitation Game,2014,8.0,Drama
+The Theory of Everything,2014,7.7,Drama
+Argo,2012,7.7,Drama
+The Revenant,2015,8.0,Drama
+Her,2013,8.0,Romance
+Before Sunrise,1995,8.1,Romance
+Before Sunset,2004,8.1,Romance
+Before Midnight,2013,7.9,Romance
+The Notebook,2004,7.8,Romance
+A Beautiful Mind,2001,8.2,Drama
+Life Is Beautiful,1997,8.6,Comedy
+Eternal Sunshine of the Spotless Mind,2004,8.3,Romance
+Silver Linings Playbook,2012,7.7,Romance
+The Fault in Our Stars,2014,7.7,Romance
+500 Days of Summer,2009,7.7,Romance
+The Perks of Being a Wallflower,2012,8.0,Romance
+Notting Hill,1999,7.1,Romance
+Love Actually,2003,7.6,Romance
+La La Land,2016,8.0,Romance
+Moulin Rouge!,2001,7.6,Romance
+Titanic,1997,7.8,Romance
+The Princess Bride,1987,8.0,Fantasy
+Big Fish,2003,8.0,Fantasy
+The Curious Case of Benjamin Button,2008,7.8,Fantasy
+Pan's Labyrinth,2006,8.2,Fantasy
+The Shape of Water,2017,7.3,Fantasy
+Amélie,2001,8.3,Romance
+The Grand Budapest Hotel,2014,8.1,Comedy
+The Life Aquatic with Steve Zissou,2004,7.3,Comedy
+Rushmore,1998,7.7,Comedy
+The Royal Tenenbaums,2001,7.6,Comedy
+The French Dispatch,2021,7.2,Comedy
+Isle of Dogs,2018,7.9,Animation
+Fantastic Mr. Fox,2009,7.9,Animation
+The LEGO Movie,2014,7.7,Animation
+How to Train Your Dragon,2010,8.1,Animation
+Kung Fu Panda,2008,7.6,Animation
+Despicable Me,2010,7.6,Animation
+Minions,2015,6.4,Animation
+Moana,2016,7.6,Animation
+Ratatouille,2007,8.0,Animation
+The Secret Life of Pets,2016,6.5,Animation
+Hotel Transylvania,2012,7.1,Animation
+Monsters University,2013,7.3,Animation
+Ice Age,2002,7.5,Animation
+Tangled,2010,7.7,Animation
+Frozen II,2019,6.8,Animation
+The Croods,2013,7.2,Animation
+Shrek 2,2004,7.2,Animation
+Madagascar,2005,6.9,Animation
+Madagascar: Escape 2 Africa,2008,6.6,Animation
+Madagascar 3: Europe's Most Wanted,2012,6.8,Animation
+The Secret Life of Walter Mitty,2013,7.3,Comedy
+The Internship,2013,6.3,Comedy
+The Hangover,2009,7.7,Comedy
+The Hangover Part II,2011,6.4,Comedy
+The Hangover Part III,2013,5.8,Comedy
+Zombieland,2009,7.6,Comedy
+Zombieland: Double Tap,2019,6.7,Comedy
+Shaun of the Dead,2004,7.9,Comedy
+Hot Fuzz,2007,7.8,Comedy
+The World's End,2013,7.0,Comedy
+Anchorman: The Legend of Ron Burgundy,2004,7.2,Comedy
+Step Brothers,2008,6.9,Comedy
+Talladega Nights: The Ballad of Ricky Bobby,2006,6.6,Comedy
+Elf,2003,7.0,Comedy
+Dodgeball: A True Underdog Story,2004,6.7,Comedy
+Superbad,2007,7.6,Comedy
+Pineapple Express,2008,6.9,Comedy
+21 Jump Street,2012,7.2,Comedy
+22 Jump Street,2014,7.0,Comedy
+Tropic Thunder,2008,7.0,Comedy
+Meet the Parents,2000,7.0,Comedy
+Meet the Fockers,2004,6.3,Comedy
+Little Fockers,2010,5.5,Comedy
+The Other Guys,2010,6.7,Comedy
+The Heat,2013,6.6,Comedy
+Spy,2015,7.0,Comedy
+Bridesmaids,2011,6.8,Comedy
+Pitch Perfect,2012,7.1,Comedy
+Crazy Rich Asians,2018,7.0,Romance
+The Proposal,2009,6.7,Romance
+10 Things I Hate About You,1999,7.3,Romance
+Mean Girls,2004,7.1,Comedy
+Clueless,1995,6.9,Comedy
+Legally Blonde,2001,6.4,Comedy
+The Devil Wears Prada,2006,6.9,Comedy
+Easy A,2010,7.0,Comedy
+Juno,2007,7.4,Comedy
+The Blind Side,2009,7.6,Drama
+The Help,2011,8.0,Drama
+Hidden Figures,2016,7.8,Drama
+Moneyball,2011,7.6,Drama
+Steve Jobs,2015,7.2,Drama
+The Social Network,2010,7.7,Drama
+War Dogs,2016,7.1,Comedy
+The Wolf of Wall Street,2013,8.2,Drama
+The Big Short,2015,7.8,Drama
+Jobs,2013,5.9,Drama
+Snowden,2016,7.3,Drama
+A Few Good Men,1992,7.7,Drama
+Sully,2016,7.4,Drama
+American Sniper,2014,7.3,Drama
+The Hurt Locker,2008,7.6,War
+Zero Dark Thirty,2012,7.4,War
+Black Hawk Down,2001,7.7,War
+Platoon,1986,8.1,War
+Full Metal Jacket,1987,8.3,War
+The Thin Red Line,1998,7.6,War
+Apocalypse Now,1979,8.4,War
+The Deer Hunter,1978,8.1,War
+1917,2019,8.3,War
+Hacksaw Ridge,2016,8.1,War
+Dunkirk,2017,7.9,War
+Inglourious Basterds,2009,8.3,War
+Letters from Iwo Jima,2006,7.9,War
+Flags of Our Fathers,2006,7.1,War
+Fury,2014,7.6,War
+The Pianist,2002,8.5,War
+Schindler's List,1993,9.0,War
+Pearl Harbor,2001,6.2,Drama
+Midway,2019,6.7,Drama
+Enemy at the Gates,2001,7.6,Drama
+The Great Escape,1963,8.2,Drama
+The Godfather Part II,1974,9.0,Crime
+The Dark Knight Rises,2012,8.4,Action
+The Departed,2006,8.5,Crime
+The Shining,1980,8.4,Horror
+Pulp Fiction,1994,8.9,Crime
+Good Will Hunting,1997,8.3,Drama
+The Silence of the Lambs,1991,8.6,Thriller
+A Clockwork Orange,1971,8.3,Sci-Fi
+The Usual Suspects,1995,8.5,Crime
+Saving Private Ryan,1998,8.6,War
+Braveheart,1995,8.3,Action
+Full Metal Jacket,1987,8.3,War
+Alien,1979,8.5,Sci-Fi
+The Terminator,1984,8.0,Sci-Fi
+Apocalypse Now,1979,8.4,War
+Blade Runner 2049,2017,8.0,Sci-Fi
+The Matrix Reloaded,2003,7.2,Sci-Fi
+The Matrix Revolutions,2003,6.8,Sci-Fi
+Ghostbusters,1984,7.8,Comedy
+Ghostbusters: Afterlife,2021,7.1,Comedy
+The Goonies,1985,7.8,Adventure
+Gremlins,1984,7.3,Comedy
+Indiana Jones and the Temple of Doom,1984,7.6,Adventure
+Indiana Jones and the Kingdom of the Crystal Skull,2008,6.2,Adventure
+Star Wars: The Force Awakens,2015,7.9,Sci-Fi
+Star Wars: The Last Jedi,2017,7.0,Sci-Fi
+Star Wars: The Rise of Skywalker,2019,6.5,Sci-Fi
+Rogue One: A Star Wars Story,2016,7.8,Sci-Fi
+Solo: A Star Wars Story,2018,6.9,Sci-Fi
+The Empire Strikes Back,1980,8.7,Sci-Fi
+Return of the Jedi,1983,8.3,Sci-Fi
+Mad Max: Fury Road,2015,8.1,Action
+Dune,2021,8.0,Sci-Fi
+Tenet,2020,7.3,Sci-Fi
+Inception,2010,8.8,Sci-Fi
+Interstellar,2014,8.6,Sci-Fi
+The Prestige,2006,8.5,Drama
+Memento,2000,8.4,Mystery
+Django Unchained,2012,8.4,Western
+Inglourious Basterds,2009,8.3,War
+The Hateful Eight,2015,7.8,Western
+Once Upon a Time in the West,1968,8.5,Western
+The Good the Bad and the Ugly,1966,8.8,Western
+A Fistful of Dollars,1964,8.0,Western
+For a Few Dollars More,1965,8.3,Western
+Unforgiven,1992,8.2,Western
+The Revenant,2015,8.0,Western
+True Grit,2010,7.6,Western
+The Magnificent Seven,1960,7.7,Western
+The Searchers,1956,7.9,Western
+3:10 to Yuma,2007,7.7,Western
+Tombstone,1993,7.8,Western
+No Country for Old Men,2007,8.1,Thriller
+The Road,2009,7.2,Drama
+Children of Men,2006,7.9,Sci-Fi
+Gravity,2013,7.7,Sci-Fi
+Arrival,2016,7.9,Sci-Fi
+District 9,2009,7.9,Sci-Fi
+War of the Worlds,2005,6.5,Sci-Fi
+Edge of Tomorrow,2014,7.9,Sci-Fi
+Minority Report,2002,7.6,Sci-Fi
+The Fifth Element,1997,7.7,Sci-Fi
+The Day the Earth Stood Still,1951,7.7,Sci-Fi
+The War of the Worlds,1953,7.1,Sci-Fi
+Close Encounters of the Third Kind,1977,7.6,Sci-Fi
+E.T. the Extra-Terrestrial,1982,7.9,Sci-Fi
+The Thing,1982,8.2,Horror
+The Fly,1986,7.6,Horror
+The Blob,1958,6.4,Horror
+Tremors,1990,7.1,Horror
+Predator,1987,7.8,Action
+The Predator,2018,5.3,Sci-Fi
+The Thing,2011,6.2,Horror
+Annihilation,2018,6.8,Sci-Fi
+Underwater,2020,6.0,Sci-Fi
+The Invisible Man,2020,7.1,Horror
+Bird Box,2018,6.6,Sci-Fi
+A Quiet Place,2018,7.5,Horror
+A Quiet Place Part II,2021,7.3,Horror
+It,2017,7.3,Horror
+It Chapter Two,2019,6.5,Horror
+The Conjuring,2013,7.5,Horror
+The Conjuring 2,2016,7.3,Horror
+The Nun,2018,5.3,Horror
+Annabelle,2014,5.4,Horror
+Annabelle: Creation,2017,6.5,Horror
+Annabelle Comes Home,2019,5.9,Horror
+The Exorcist,1973,8.0,Horror
+The Exorcism of Emily Rose,2005,6.7,Horror
+The Amityville Horror,1979,6.2,Horror
+Poltergeist,1982,7.3,Horror
+Insidious,2010,6.8,Horror
+Insidious: Chapter 2,2013,6.6,Horror
+Insidious: Chapter 3,2015,6.1,Horror
+Insidious: The Last Key,2018,5.7,Horror
+Sinister,2012,6.8,Horror
+Paranormal Activity,2007,6.3,Horror
+The Ring,2002,7.1,Horror
+The Grudge,2004,5.9,Horror
+The Babadook,2014,6.8,Horror
+Hereditary,2018,7.3,Horror
+Midsommar,2019,7.1,Horror
+The Witch,2015,6.9,Horror
+The Lighthouse,2019,7.5,Horror
+The Blair Witch Project,1999,6.5,Horror
+Halloween,1978,7.7,Horror
+Halloween (2018),2018,6.5,Horror
+Friday the 13th,1980,6.4,Horror
+A Nightmare on Elm Street,1984,7.5,Horror
+Scream,1996,7.3,Horror
+Scream 2,1997,6.3,Horror
+Scream 3,2000,5.6,Horror
+Scream 4,2011,6.2,Horror
+Final Destination,2000,6.7,Horror
+Saw,2004,7.6,Horror
+Saw II,2005,6.6,Horror
+Saw III,2006,6.2,Horror
+Saw IV,2007,5.9,Horror
+Saw V,2008,5.8,Horror
+Saw VI,2009,6.0,Horror
+Jigsaw,2017,5.8,Horror
+Spiral: From the Book of Saw,2021,5.3,Horror
+Hostel,2005,5.9,Horror
+The Cabin in the Woods,2012,7.0,Horror
+Get Out,2017,7.7,Horror
+Us,2019,6.8,Horror
+Candyman,1992,6.7,Horror
+Candyman (2021),2021,5.9,Horror
+The Texas Chainsaw Massacre,1974,7.5,Horror
+The Evil Dead,1981,7.5,Horror
+Evil Dead II,1987,7.7,Horror
+Army of Darkness,1992,7.5,Horror
+The Evil Dead (2013),2013,6.5,Horror
+Zombieland,2009,7.6,Comedy
+Zombieland: Double Tap,2019,6.7,Comedy
+Shaun of the Dead,2004,7.9,Comedy
+World War Z,2013,7.0,Sci-Fi
+28 Days Later,2002,7.5,Horror
+28 Weeks Later,2007,7.0,Horror
+I Am Legend,2007,7.2,Sci-Fi
+Contagion,2011,6.7,Thriller
+Outbreak,1995,6.6,Thriller
+The Road,2009,7.2,Drama
+The Book of Eli,2010,6.9,Action
+V for Vendetta,2005,8.2,Action
+The Hunger Games,2012,7.2,Action
+Divergent,2014,6.7,Sci-Fi
+The Maze Runner,2014,6.8,Action
+Maze Runner: The Scorch Trials,2015,6.3,Action
+Maze Runner: The Death Cure,2018,6.2,Action
+The Giver,2014,6.5,Sci-Fi
+The Host,2013,5.9,Sci-Fi
+City of Ember,2008,6.5,Sci-Fi
+The Golden Compass,2007,6.1,Fantasy
+Ender's Game,2013,6.6,Sci-Fi
+Jumanji: Welcome to the Jungle,2017,6.9,Adventure
+Jumanji: The Next Level,2019,6.6,Adventure
+Jumanji,1995,7.0,Adventure
+The Lego Batman Movie,2017,7.3,Animation
+Batman: Mask of the Phantasm,1993,7.8,Animation
+Batman: The Killing Joke,2016,6.4,Animation
+The Lego Movie 2: The Second Part,2019,6.7,Animation
+Cars,2006,7.1,Animation
+Cars 2,2011,6.1,Animation
+Cars 3,2017,6.7,Animation
+Planes,2013,5.7,Animation
+Planes: Fire & Rescue,2014,6.0,Animation
+The Good Dinosaur,2015,6.7,Animation
+Wreck-It Ralph,2012,7.7,Animation
+Ralph Breaks the Internet,2018,7.0,Animation
+The Secret Life of Pets 2,2019,6.5,Animation
+Monsters, Inc.,2001,8.1,Animation
+Lilo & Stitch,2002,7.3,Animation
+Big Hero 6,2014,7.8,Animation
+Bolt,2008,6.8,Animation
+The Jungle Book,1967,7.6,Animation
+The Jungle Book,2016,7.4,Fantasy
+Tarzan,1999,7.3,Animation
+Brother Bear,2003,6.8,Animation
+The Lion King II: Simba's Pride,1998,6.5,Animation
+Lady and the Tramp,1955,7.3,Animation
+Lady and the Tramp II: Scamp's Adventure,2001,5.9,Animation
+101 Dalmatians,1961,7.3,Animation
+The Rescuers,1977,6.9,Animation
+The Rescuers Down Under,1990,6.9,Animation
+Peter Pan,1953,7.3,Animation
+The Sword in the Stone,1963,7.2,Animation
+Hercules,1997,7.3,Animation
+The Hunchback of Notre Dame,1996,7.0,Animation
+Robin Hood,1973,7.6,Animation
+Mulan,1998,7.6,Animation
+Mulan II,2004,5.7,Animation
+Atlantis: The Lost Empire,2001,6.9,Animation
+Treasure Planet,2002,7.2,Animation
+The Emperor's New Groove,2000,7.4,Animation
+Meet the Robinsons,2007,6.8,Animation
+Zombieland,2009,7.6,Comedy
+Shaun of the Dead,2004,7.9,Comedy
+Hot Fuzz,2007,7.8,Comedy
+The World's End,2013,7.0,Comedy
+Baby Driver,2017,7.6,Action
+Scott Pilgrim vs. the World,2010,7.5,Comedy
+Superbad,2007,7.6,Comedy
+The Hangover,2009,7.7,Comedy
+The Hangover Part II,2011,6.4,Comedy
+The Hangover Part III,2013,5.8,Comedy
+This Is the End,2013,6.6,Comedy
+Pineapple Express,2008,6.9,Comedy
+21 Jump Street,2012,7.2,Comedy
+22 Jump Street,2014,7.0,Comedy
+Step Brothers,2008,6.9,Comedy
+Anchorman: The Legend of Ron Burgundy,2004,7.2,Comedy
+Talladega Nights: The Ballad of Ricky Bobby,2006,6.6,Comedy
+Elf,2003,7.0,Comedy
+The Other Guys,2010,6.7,Comedy
+Dodgeball: A True Underdog Story,2004,6.7,Comedy
+Old School,2003,7.0,Comedy
+Blades of Glory,2007,6.3,Comedy
+Get Hard,2015,6.0,Comedy
+Tropic Thunder,2008,7.0,Comedy
+Zoolander,2001,6.5,Comedy
+Zoolander 2,2016,4.7,Comedy
+Meet the Parents,2000,7.0,Comedy
+Meet the Fockers,2004,6.3,Comedy
+Little Fockers,2010,5.5,Comedy
+The Internship,2013,6.3,Comedy
+Wedding Crashers,2005,7.0,Comedy
+The Break-Up,2006,5.8,Comedy
+Couples Retreat,2009,5.5,Comedy
+You, Me and Dupree,2006,5.6,Comedy
+The 40-Year-Old Virgin,2005,7.1,Comedy
+Knocked Up,2007,6.9,Comedy
+Forgetting Sarah Marshall,2008,7.1,Comedy
+I Love You, Man,2009,7.0,Comedy
+Role Models,2008,6.8,Comedy
+Yes Man,2008,6.8,Comedy
+Liar Liar,1997,6.9,Comedy
+Bruce Almighty,2003,6.8,Comedy
+Fun with Dick and Jane,2005,6.1,Comedy
+Mr. Popper's Penguins,2011,6.0,Comedy
+The Mask,1994,6.9,Comedy
+Dumb and Dumber,1994,7.3,Comedy
+Ace Ventura: Pet Detective,1994,6.9,Comedy
+Ace Ventura: When Nature Calls,1995,6.4,Comedy
+Lemony Snicket's A Series of Unfortunate Events,2004,6.8,Fantasy
+A Christmas Carol,2009,6.8,Animation
+The Polar Express,2004,6.6,Animation
+Elf,2003,7.0,Comedy
+Home Alone,1990,7.6,Comedy
+Home Alone 2: Lost in New York,1992,6.8,Comedy
+Jingle All the Way,1996,5.6,Comedy
+The Santa Clause,1994,6.5,Comedy
+The Santa Clause 2,2002,5.6,Comedy
+The Santa Clause 3: The Escape Clause,2006,4.7,Comedy
+The Nightmare Before Christmas,1993,8.0,Animation
+How the Grinch Stole Christmas,2000,6.2,Comedy
+Dr. Seuss' The Grinch,2018,6.4,Animation
+The Holiday,2006,6.9,Romance
+Love Actually,2003,7.6,Romance
+The Family Stone,2005,6.3,Romance
+National Lampoon's Christmas Vacation,1989,7.6,Comedy
+Bad Santa,2003,7.0,Comedy
+Arthur Christmas,2011,7.1,Animation
+Rise of the Guardians,2012,7.3,Animation
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe,2005,6.9,Fantasy
+The Chronicles of Narnia: Prince Caspian,2008,6.5,Fantasy
+The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,6.3,Fantasy
+The Golden Compass,2007,6.1,Fantasy
+Harry Potter and the Sorcerer's Stone,2001,7.6,Fantasy
+Harry Potter and the Chamber of Secrets,2002,7.4,Fantasy
+Harry Potter and the Prisoner of Azkaban,2004,7.9,Fantasy
+Harry Potter and the Goblet of Fire,2005,7.7,Fantasy
+Harry Potter and the Order of the Phoenix,2007,7.5,Fantasy
+Harry Potter and the Half-Blood Prince,2009,7.6,Fantasy
+Harry Potter and the Deathly Hallows: Part 1,2010,7.7,Fantasy
+Harry Potter and the Deathly Hallows: Part 2,2011,8.1,Fantasy
+Fantastic Beasts and Where to Find Them,2016,7.3,Fantasy
+Fantastic Beasts: The Crimes of Grindelwald,2018,6.5,Fantasy
+The Hobbit: An Unexpected Journey,2012,7.8,Fantasy
+The Hobbit: The Desolation of Smaug,2013,7.8,Fantasy
+The Hobbit: The Battle of the Five Armies,2014,7.4,Fantasy
+The Lord of the Rings: The Fellowship of the Ring,2001,8.8,Adventure
+The Lord of the Rings: The Two Towers,2002,8.7,Adventure
+The Lord of the Rings: The Return of the King,2003,9.0,Adventure
+Star Wars: A New Hope,1977,8.6,Sci-Fi
+Star Wars: The Empire Strikes Back,1980,8.7,Sci-Fi
+Star Wars: Return of the Jedi,1983,8.3,Sci-Fi
+Star Wars: The Force Awakens,2015,7.9,Sci-Fi
+Star Wars: The Last Jedi,2017,7.0,Sci-Fi
+Star Wars: The Rise of Skywalker,2019,6.5,Sci-Fi
+Rogue One: A Star Wars Story,2016,7.8,Sci-Fi
+Solo: A Star Wars Story,2018,6.9,Sci-Fi
+Indiana Jones and the Raiders of the Lost Ark,1981,8.4,Adventure
+Indiana Jones and the Temple of Doom,1984,7.6,Adventure
+Indiana Jones and the Last Crusade,1989,8.2,Adventure
+Indiana Jones and the Kingdom of the Crystal Skull,2008,6.2,Adventure
+Back to the Future,1985,8.5,Sci-Fi
+Back to the Future Part II,1989,7.8,Sci-Fi
+Back to the Future Part III,1990,7.4,Sci-Fi
+E.T. the Extra-Terrestrial,1982,7.9,Sci-Fi
+Close Encounters of the Third Kind,1977,7.6,Sci-Fi
+Jaws,1975,8.0,Thriller
+Jurassic Park,1993,8.1,Adventure
+The Lost World: Jurassic Park,1997,6.6,Adventure
+Jurassic Park III,2001,5.9,Adventure
+Jurassic World,2015,7.0,Adventure
+Jurassic World: Fallen Kingdom,2018,6.2,Adventure
+The Hunger Games,2012,7.2,Adventure
+The Hunger Games: Catching Fire,2013,7.5,Adventure
+The Hunger Games: Mockingjay - Part 1,2014,6.6,Adventure
+The Hunger Games: Mockingjay - Part 2,2015,6.5,Adventure
+The Maze Runner,2014,6.8,Adventure
+Maze Runner: The Scorch Trials,2015,6.3,Adventure
+Maze Runner: The Death Cure,2018,6.2,Adventure
+Divergent,2014,6.7,Sci-Fi
+Insurgent,2015,6.2,Sci-Fi
+Allegiant,2016,5.7,Sci-Fi
+Ender's Game,2013,6.6,Sci-Fi
+The Giver,2014,6.5,Sci-Fi
+City of Ember,2008,6.5,Sci-Fi
+The Golden Compass,2007,6.1,Fantasy
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe,2005,6.9,Fantasy
+The Chronicles of Narnia: Prince Caspian,2008,6.5,Fantasy
+The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,6.3,Fantasy
+Avatar,2009,7.8,Sci-Fi
+Avatar 2,2022,7.8,Sci-Fi
+The Abyss,1989,7.5,Sci-Fi
+Aliens,1986,8.3,Sci-Fi
+Prometheus,2012,7.0,Sci-Fi
+Alien: Covenant,2017,6.4,Sci-Fi
+Blade Runner,1982,8.1,Sci-Fi
+Blade Runner 2049,2017,8.0,Sci-Fi
+The Fifth Element,1997,7.7,Sci-Fi
+The Hitchhiker's Guide to the Galaxy,2005,6.7,Sci-Fi
